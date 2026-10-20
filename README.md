@@ -5,7 +5,7 @@ I'm a software developer who loves to tinker, learn new technologies, and meet l
 
 ## 🦺 Current Tech
 
-Here's what I'm working with day to day:
+Here's what I'm working with day to day
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,13 +17,11 @@ Here's what I'm working with day to day:
 </div>
 
 
-## 📜🪶 Latest scribbles:
+## 🪶 Latest scribble
 
-Read some of the small tech posts I've written along the way:
+Read some of the small tech posts I've written along the way
 
-* [Learning APIs in Spring, Docker compose, HTTPie, and deploying with Heroku ](https://aurora-node.github.io/blog-posts/spring-api-cats/spring-api-cats.html)
-* [Raspberry Pi experiments with a moisture sensor](https://aurora-node.github.io/blog-posts/raspberry-pi-shenanigans/raspberry-shenanigans.html)
-* [Localized AI models in containers and RAGs](https://aurora-node.github.io/blog-posts/localized-ai/localized-ai.html)
+* [Learning, Spring Security, and Pipelines](https://aurora-node.github.io/blog-posts/spring-as-and-rs-servers/spring-oauth2.html).
 
 Find everything on my [GitHub Page](https://aurora-node.github.io/index.html).
 
