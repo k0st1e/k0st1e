@@ -3,7 +3,7 @@
 
 I'm a software developer who loves to tinker, learn new technologies, and meet like minded people!
 
-## Current Tech
+### Current Tech
 
 Here's what I'm working with day-to-day:
 
@@ -16,7 +16,7 @@ Here's what I'm working with day-to-day:
   <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=white" />
 </div>
 
-## Writing
+### Writing
 
 Read some the tech posts I've written along the way on my Substack:
 
