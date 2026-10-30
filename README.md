@@ -3,9 +3,9 @@
 
 I'm a software developer who loves to tinker, learn new technologies, and meet like minded people!
 
-## 🦺 Current Tech
+## Current Tech
 
-Here's what I'm working with day to day
+Here's what I'm working with day-to-day:
 
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -16,14 +16,13 @@ Here's what I'm working with day to day
   <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=white" />
 </div>
 
+## Writing
 
-## 🪶 Latest scribble
+Read some the tech posts I've written along the way on my Substack:
 
-Read some of the small tech posts I've written along the way
-
-* [Learning, Spring Security, and Pipelines](https://aurora-node.github.io/blog-posts/spring-as-and-rs-servers/spring-oauth2.html).
-
-Find everything on my [GitHub Page](https://aurora-node.github.io/index.html).
+<a href="https://k0st1e.substack.com">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
 
 
 
